@@ -7,3 +7,5 @@ It contains:
 3. contact us page
 4. courses page
 5. gallery page
+6. admission page
+7. testimonial page
